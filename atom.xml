@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>小鹿斑比爱吃肉</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-27T06:21:22.513Z</updated>
+  <updated>2019-06-27T06:50:27.599Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2019/06/27/test/"/>
-    <id>http://yoursite.com/2019/06/27/test/</id>
-    <published>2019-06-27T06:21:22.000Z</published>
-    <updated>2019-06-27T06:21:22.513Z</updated>
+    <title>hexo-learn</title>
+    <link href="http://yoursite.com/2019/06/27/hexo-learn/"/>
+    <id>http://yoursite.com/2019/06/27/hexo-learn/</id>
+    <published>2019-06-27T06:46:59.000Z</published>
+    <updated>2019-06-27T06:50:27.599Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;
+      
+    
     </summary>
     
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
